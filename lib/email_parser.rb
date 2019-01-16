@@ -11,9 +11,4 @@ class EmailParser
     @@all?
   end
 
-  def initialize(emails)
-
-  end
-
-
 end
