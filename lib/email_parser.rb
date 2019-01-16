@@ -5,5 +5,6 @@
 
 class EmailParser
   attr_accessor :emails
+  @@all = []
 
 end
