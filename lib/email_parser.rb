@@ -9,4 +9,7 @@ class EmailParser
   def initialize(emails)
   end
 
+  def self.parser(emails)
+    parser = self.new
+
 end
